@@ -1,51 +1,153 @@
-📘 Resumos de Estudos — Aplicativo de Estudo Inteligente
-O Resumos de Estudos é um aplicativo simples e eficiente criado para ajudar estudantes, concurseiros e profissionais a organizarem e revisarem conteúdos de forma rápida, prática e intuitiva.
-Ideal para quem busca produtividade, foco e facilidade no aprendizado.
+🧒 6º Ano — O começo da aventura
 
-🚀 Funcionalidades
-✏️ Criar resumos rapidamente
-📂 Organizar resumos em uma interface limpa e intuitiva
-📱 Visualização otimizada para leitura
-🔒 Armazenamento local com privacidade total
-📶 Funciona sem internet
-🧠 Perfeito para estudos de concurso, faculdade ou revisões rápidas
-🖥️ Tecnologias utilizadas
-Frontend:
+📘 Matemática
+Sério: aqui você aprende como o mundo funciona usando números.
+Engraçado: e descobre que a vida seria mais fácil se a gente resolvesse problemas igual resolve MMC: cortando os fatores repetidos.
 
-HTML5
-CSS3
-JavaScript (caso adicione funcionalidades dinâmicas)
-Mobile/Web App (opcional se você usar o MVP que criamos):
+Números naturais: onde tudo é positivo, tipo aquelas pessoas que treinam 5h da manhã.
+Frações: dividindo pizza sem brigar.
+Geometria: descobrir que quadrado não é só na escola, mas também na vida.
+Gráficos: transformar confusão em desenho organizado.
 
-Flutter
-Dart
-Banco local (SQLite)
-📂 Estrutura do projeto
-/ ├── index.html ├── style.css ├── script.js (opcional) └── README.md
-🌐 Publicação com GitHub Pages
-Você pode publicar seu site gratuitamente:
+📘 Português
+Sério: interpretação é a base de TODO o estudo.
+Engraçado: é aqui que você descobre que o autor não estava triste, você que interpretou demais.
 
-Vá em Settings → Pages
-Selecione Deploy from a branch
-Branch: main → / (root)
-Clique em Save
-Acesse seu link gerado:
-https://seu-usuario.github.io/meu-site/
-📸 Preview do projeto
-(Adicione aqui prints da sua página quando quiser)
+Tipos de texto
+Classes de palavras
+Pontuação
+Como escrever sem parecer que digitou com o cotovelo
 
-🤝 Como contribuir
-Contribuições são bem-vindas!
-Sugestões, melhorias e novas funcionalidades podem ser enviadas via:
+🔬 Ciências
+Sério: conceitos pra entender o planeta.
+Engraçado: e pra descobrir que os dinossauros não foram extintos por um Wi-Fi ruim.
 
-Pull Request
-Issues
-Contato direto com o desenvolvedor
-👨‍💻 Autor
-davisin11
- criador do projeto Resumos de Estudos.
-Focado em produtividade, organização e tecnologia aplicada ao estudo.
+👦 7º Ano — A fase “já entendi, mas quero explicação de novo”
 
-📄 Licença
-Este projeto é distribuído sob a licença MIT — fique à vontade para usar, modificar e melhorar!
+📘 Matemática
+Proporção (sério)
+Regra de três (mágica pura)
+Porcentagem (ideal pra promoções falsas)
 
+📘 Português
+Coesão (cola) e coerência (sentido)
+Funções da linguagem
+Classes de palavras avançadas
+
+🔬 Ciências
+Corpo humano
+Sistema digestório (onde o pastel de feira vira energia… ou arrependimento)
+
+🧑 8º Ano — “O mundo faz sentido, mas a matemática complica de propósito”
+
+📘 Matemática
+Equações
+Probabilidade
+Geometria espacial
+Engraçado: probabilidade é aquela matéria que diz que a chance de você acertar na prova aumenta se você estudar… mas você insiste em testar a sorte.
+
+🧑‍🎓 9º Ano — Fase de treinamento para a vida real
+
+📘 Matemática
+Equação do 2º grau
+Trigonometria
+Funções
+Professor sério: aqui começa o raciocínio abstrato.
+Professor engraçado: bem-vindo ao clube dos que já sofreram tentando achar o "x". O coitado vive fugindo desde o Egito Antigo.
+
+📘 Ciências
+Genética
+Força e movimento
+Reações químicas
+Engraçado: quando você descobre que tudo é composto de átomos, inclusive aquele livro que caiu no seu pé.
+
+🎓 1º Ano do Ensino Médio — “a montanha começa a ficar inclinada”
+
+📘 Matemática
+Conjuntos
+PA
+Funções
+
+📘 Física
+Velocidade, aceleração e queda livre
+Engraçado: queda livre é o que acontece quando seu boletim chega em casa
+.
+📘 Química
+Átomos, ligações e tabela periódica
+Ácido/base (sim, limão entra na história)
+
+📘 Biologia
+Células e tecidos
+Engraçado: você descobre que é basicamente um “saco de água com eletricidade”.
+
+🎓 2º Ano — “Agora vai!”
+
+📘 Matemática
+Logaritmos
+Funções exponenciais
+Engraçado: logaritmo parece difícil, mas é só o primo organizado da potência.
+
+📘 Física
+Termodinâmica
+Eletricidade
+Engraçado: é aqui que você entende porque a conta de luz dói mais que prova de física.
+
+📘 Química
+Termoquímica
+Cinética
+Reações
+🎓 3º Ano — “O Everest dos estudos”
+
+📘 Matemática
+Matrizes
+Determinantes
+Probabilidade avançada
+Engraçado: determinante é aquela operação que você faz uma vez e pensa: “quem inventou isso?”
+
+🔬 Biologia
+Ecologia
+Evolução
+Biotecnologia
+Engraçado: finalmente você entende por que o mosquito sempre evolui mais rápido que você e volta todo verão.
+
+📝 ENEM — O chefão final do jogo
+🔍 Linguagens
+Interpretação (90% da prova)
+Imagem, poesia, música, tirinha
+Engraçado: ENEM não quer saber se você sabe gramática, quer saber se você entendeu a piada.
+
+🔍 Matemática
+Funções
+Porcentagem
+Geometria
+
+🔍 Ciências da Natureza
+Física calma, Química aplicada e Biologia contextual
+Engraçado: o ENEM ama gráficos, ama contexto e odeia que você chute.
+
+🔍 Ciências Humanas
+História do Brasil
+Cidadania
+Geopolítica
+
+🎖️ CMJF — Colégio Militar / Examão
+O CMJF cobra:
+
+📘 Matemática “hardcore”
+Expressões numéricas
+Equações
+Frações
+Geometria
+Problemas de lógica
+ eles adoram colocar uma pegadinha que faz você achar que tá tudo certo… até perceber que esqueceu um “menos”.
+
+📘 Português
+Interpretação pesada
+Gramática
+Análise de frases
+Ortografia
+📝 Redação
+Narração
+Dissertação curta
+Texto claro e direto
+bons estudos kkkkkkkk
